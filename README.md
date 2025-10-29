@@ -2,7 +2,7 @@
 # Semantic HTML: Best Practices for Accessibility and SEO
 
 ## About the Project
-This project, Semantic HTML,  focuses on building a solid foundation in Semantic HTML while emphasizing accessibility, SEO optimization, and the implementation of ARIA roles for enhanced usability. Through incremental tasks, learners will structure and enhance a web page to make it not only visually structured but also optimized for screen readers and search engines. By the end of the project, learners will understand the importance of semantic elements and accessibility features in modern web development.
+This project, Semantic HTML,  focuses on building a solid foundation in Semantic HTML while emphasizing accessibility, SEO optimization, and the implementation of ARIA roles for enhanced usability. Through incremental tasks, one will structure and enhance a web page to make it not only visually structured but also optimized for screen readers and search engines. This project will  make you understand the importance of semantic elements and accessibility features in modern web development.
 
 ## Project's Objectives
 1. Master Semantic HTML: To structure web pages using semantic elements such as <header>, <main>, <article>, <section>, and <footer> for better content organization and accessibility.
@@ -30,9 +30,9 @@ Semantic elements in HTML are tags that convey meaning and context about the con
 - The element is used for self-contained content, such as images or diagrams, and provides a caption for the content - Diagrams with descriptions, images with titles
 
 ### Best Practices for Using Semantic Elements
-Use semantic tags that best describe the content and purpose.
-Avoid using non-semantic tags like and where a semantic alternative exists.
-Maintain proper nesting and order to ensure logical structure.
+- Use semantic tags that best describe the content and purpose.
+- Avoid using non-semantic tags like and where a semantic alternative exists.
+- Maintain proper nesting and order to ensure logical structure.
 
 ## Accessibility: Techniques for Improving Accessibility with Semantic HTML
 
@@ -40,11 +40,11 @@ Maintain proper nesting and order to ensure logical structure.
 Accessibility ensures that web content is usable by people with disabilities, such as those using screen readers or other assistive technologies.
 
 ### Techniques for Improving Accessibility
-. Semantic Structure: Use headings and semantic tags to create a meaningful document outline, aiding navigation for screen readers.
-. Descriptive Links: Use meaningful text for hyperlinks to describe the link’s destination.
-. Alt Text for Images: Provide descriptive alt attributes for images to convey information to visually impaired users.
-. Proper Labeling: Use tags with form inputs to enhance usability for screen readers.
-. Keyboard Navigation: Ensure all interactive elements are accessible via keyboard navigation.
+- Semantic Structure: Use headings and semantic tags to create a meaningful document outline, aiding navigation for screen readers.
+- Descriptive Links: Use meaningful text for hyperlinks to describe the link’s destination.
+- Alt Text for Images: Provide descriptive alt attributes for images to convey information to visually impaired users.
+- Proper Labeling: Use tags with form inputs to enhance usability for screen readers.
+- Keyboard Navigation: Ensure all interactive elements are accessible via keyboard navigation.
 
 ## SEO Basics: How Semantic HTML Contributes to Better SEO
 
@@ -52,24 +52,24 @@ Accessibility ensures that web content is usable by people with disabilities, su
 Semantic HTML plays a crucial role in search engine optimization by providing clear context and structure, which helps search engines understand and index content effectively.
 
 ### SEO Benefits of Semantic HTML
-. Improved Crawling: Search engines can more easily crawl and understand semantically structured content.
-. Rich Snippets: Proper use of semantic elements can lead to better presentation in search results.
-. Faster Indexing: Clean, well-structured HTML enhances the speed and efficiency of indexing.
+- Improved Crawling: Search engines can more easily crawl and understand semantically structured content.
+- Rich Snippets: Proper use of semantic elements can lead to better presentation in search results.
+- Faster Indexing: Clean, well-structured HTML enhances the speed and efficiency of indexing.
 
 ### Best Practices for SEO
-. Use semantic tags for content structure.
-. Ensure HTML is clean and free of errors.
-. Use proper heading hierarchy for better readability and SEO.
+- Use semantic tags for content structure.
+- Ensure HTML is clean and free of errors.
+- Use proper heading hierarchy for better readability and SEO.
 
 ## ARIA Roles: Enhancing Accessibility with ARIA Roles
 ### What is WAI-ARIA?
 The Web Accessibility Initiative - Accessible Rich Internet Applications (WAI-ARIA) is a set of attributes that define ways to make web content more accessible to people with disabilities, especially for dynamic content and advanced user interface controls.
 
 ### Using ARIA Roles
-. Roles: Define the type of widget or structure (e.g., button, banner, navigation).
-. States and Properties: Provide additional meaning, such as aria-checked or aria-expanded.
+- Roles: Define the type of widget or structure (e.g., button, banner, navigation).
+- States and Properties: Provide additional meaning, such as aria-checked or aria-expanded.
 
 ### Best Practices for ARIA
-. Use ARIA roles when native HTML elements do not provide sufficient semantic information.
-. Avoid overuse of ARIA; no ARIA is better than incorrect ARIA.
-. Regularly test ARIA implementations with screen readers to ensure effectiveness.
+- Use ARIA roles when native HTML elements do not provide sufficient semantic information.
+- Avoid overuse of ARIA; no ARIA is better than incorrect ARIA.
+- Regularly test ARIA implementations with screen readers to ensure effectiveness.
